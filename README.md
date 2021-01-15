@@ -20,7 +20,7 @@ Inquiries regarding the scripts provided below are cordially welcome. In case yo
 **Citing**
 
 If you use our algorihtms, please cite [[1]](https://ieeexplore.ieee.org/document/9287335).
-```
+```bibtex
 @INPROCEEDINGS{9287335,
   author={D. G. {Chachlakis} and P. P. {Markopoulos}},
   booktitle={2020 28th European Signal Processing Conference (EUSIPCO)}, 
